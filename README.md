@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Abisheik!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Abisheik!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b6b4-622f-872a-5751bc00ab93/raw?se=2025-04-14T13%3A11%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=340f5a2f-1602-5b7d-9059-0d94c97d9631&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-14T04%3A31%3A44Z&ske=2025-04-15T04%3A31%3A44Z&sks=b&skv=2024-08-04&sig=ezuu0/sMX16nCzIb1CbrBSBzRmS19lRz02rQZRvhljE%3D" width="820" />
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b6b4-622f-872a-5751bc00ab93/raw?se=2025-04-14T13%3A11%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=340f5a2f-1602-5b7d-9059-0d94c97d9631&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-14T04%3A31%3A44Z&ske=2025-04-15T04%3A31%3A44Z&sks=b&skv=2024-08-04&sig=ezuu0/sMX16nCzIb1CbrBSBzRmS19lRz02rQZRvhljE%3D" width="320" />
 </p>
 
 <p align="center">
