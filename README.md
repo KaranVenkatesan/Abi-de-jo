@@ -71,8 +71,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
-https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&theme=react-dark&color=9c27b0&line=ab47bc&point=ce93d8
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/github-snake.svg" />
+</picture>
 ---
 
 
