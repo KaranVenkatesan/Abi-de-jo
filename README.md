@@ -75,8 +75,3 @@
 
 ![snake gif](https://github.com/Abi-de-jo/Abi-de-jo/blob/output/github-contribution-grid-snake.gif)
 
-## 💬 <span style="font-family:serif; font-size: 22px;"><strong>Personal Quote</strong></span>
-
-```txt
-"Striving to make the web a better place,
-  One animation, one interaction, one repo at a time."
