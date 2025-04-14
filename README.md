@@ -73,6 +73,8 @@
 
 ---
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ## 💬 <span style="font-family:serif; font-size: 22px;"><strong>Personal Quote</strong></span>
 
 ```txt
